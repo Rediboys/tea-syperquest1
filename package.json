@@ -9,6 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rediboys/tea-syperquest1.git"
+  },"dependencies": {
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
